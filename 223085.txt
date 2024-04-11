@@ -50,7 +50,8 @@
     ! [rejected]        bug2 -> bug2 (non-fast-forward)
     error: failed to push some refs to 'https://github.com/draganaristova/SI_2024_lab1_223085.git'
 27.$ git push --force origin bug2 - мораме присилно да ги синхронизираме поради rejected
-28.$ nano 223085 - создадов датотека со сите досегашни користени команди и објаснувања
+28.$ git log > logs.txt - со оваа команда ги префрлам сите git логови 
+   $ nano 223085 - создадов датотека со сите досегашни користени команди и објаснувања
    $ git add . - го ставам во staged фаза
    $ git commit -m "Final commit" - правам commit
 29.$ git push --all - синхронизација на сите гранки со оддалечениот репозиториум
