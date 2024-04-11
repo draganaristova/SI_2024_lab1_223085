@@ -1,0 +1,35 @@
+commit faa56b60e995caba427c2172b3a39a69c55877d5
+Author: Dragana Ristova <dragana.ristova@students.finki.ukim.mk>
+Date:   Sat Apr 6 19:01:56 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 358e0aa5df41945390bbb5a12e377c29551f2e2f
+Author: Dragana Ristova <dragana.ristova@students.finki.ukim.mk>
+Date:   Sat Apr 6 18:59:18 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 2a219fe03e8a3f569eb8dc20eeddf746e78b04d5
+Author: Dragana Ristova <dragana.ristova@students.finki.ukim.mk>
+Date:   Sat Apr 6 19:00:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9346189122469c1cca6deda2ecfe79874de12289
+Author: Dragana Ristova <dragana.ristova@students.finki.ukim.mk>
+Date:   Sat Apr 6 18:58:02 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 3288b8ed671d6b302754e7b232815cea57a9f23d
+Author: Dragana Ristova <dragana.ristova@students.finki.ukim.mk>
+Date:   Sat Apr 6 18:52:37 2024 +0200
+
+    Add starter code
+
+commit 28944b1caf1959357bd5705edaf380b06b3daf06
+Author: Dragana Ristova <dragana.ristova@students.finki.ukim.mk>
+Date:   Sat Apr 6 18:51:44 2024 +0200
+
+    Initial commit
